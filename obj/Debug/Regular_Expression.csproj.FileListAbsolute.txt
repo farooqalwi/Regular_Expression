@@ -1,0 +1,7 @@
+D:\UoK\CSSE\CSSE-V\CC\Lab\Assignments\Regular_Expression\bin\Debug\Regular_Expression.exe.config
+D:\UoK\CSSE\CSSE-V\CC\Lab\Assignments\Regular_Expression\bin\Debug\Regular_Expression.exe
+D:\UoK\CSSE\CSSE-V\CC\Lab\Assignments\Regular_Expression\bin\Debug\Regular_Expression.pdb
+D:\UoK\CSSE\CSSE-V\CC\Lab\Assignments\Regular_Expression\obj\Debug\Regular_Expression.csprojAssemblyReference.cache
+D:\UoK\CSSE\CSSE-V\CC\Lab\Assignments\Regular_Expression\obj\Debug\Regular_Expression.csproj.CoreCompileInputs.cache
+D:\UoK\CSSE\CSSE-V\CC\Lab\Assignments\Regular_Expression\obj\Debug\Regular_Expression.exe
+D:\UoK\CSSE\CSSE-V\CC\Lab\Assignments\Regular_Expression\obj\Debug\Regular_Expression.pdb
