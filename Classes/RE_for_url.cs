@@ -9,7 +9,7 @@ namespace Regular_Expression.Classes
         {
             Console.Write("Enter valid url: ");
             string input = Console.ReadLine();
-            string pattern = "^[+-]?[0-9]+[.][0-9]+$";
+            string pattern = "^((https://www.|http://www.|www.)[a-z0-9]+|[a-z0-9]+)(.[a-z]+)+(/|(/[a-z0-9]+)*)$";
             Regex regex = new Regex(pattern);
             bool result = regex.IsMatch(input);
 

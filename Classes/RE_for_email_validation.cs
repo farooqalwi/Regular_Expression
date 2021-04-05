@@ -9,7 +9,7 @@ namespace Regular_Expression.Classes
         {
             Console.Write("Enter valid email address: ");
             string input = Console.ReadLine();
-            string pattern = "^[a-z0-9.]+[@][a-z.]+{1,15}$";
+            string pattern = @"^[a-z0-9]+(.[a-z0-9]+)*@([a-z]+.)+[a-z]+$";
             Regex regex = new Regex(pattern);
             bool result = regex.IsMatch(input);
 

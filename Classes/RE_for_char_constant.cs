@@ -9,7 +9,7 @@ namespace Regular_Expression.Classes
         {
             Console.Write("Enter valid char: ");
             string input = Console.ReadLine();
-            string pattern = "^$";
+            string pattern = "^(\'|\"|\\)|(\n\t\r\b))|+-!|ntorb$";
             Regex regex = new Regex(pattern);
             bool result = regex.IsMatch(input);
 
@@ -21,6 +21,7 @@ namespace Regular_Expression.Classes
             {
                 Console.WriteLine($"{input} is an invlid char.");
             }
+
         }
     }
 }
